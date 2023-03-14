@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-complete-course-from-udemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IndrajeetKumarNayak/node.js-Express-MongoDB.git"
+  },
+  "author": "Indrajeet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IndrajeetKumarNayak/node.js-Express-MongoDB/issues"
+  },
+  "homepage": "https://github.com/IndrajeetKumarNayak/node.js-Express-MongoDB#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "slugify": "^1.6.5"
+  }
+}
