@@ -19,6 +19,7 @@
   "dependencies": {
     "express": "^4.18.2",
     "nodemon": "^2.0.21",
-    "slugify": "^1.6.5"
+    "slugify": "^1.6.5",
+    "superagent": "^8.0.9"
   }
 }
